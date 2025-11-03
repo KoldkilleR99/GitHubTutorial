@@ -11,7 +11,7 @@ The screenshot below shows a behaviour tree representing the actions that can be
 *An example behaviour tree representing an enemy NPC's actions. Source: <https://dev.epicgames.com/documentation/en-us/unreal-engine/behavior-tree-in-unreal-engine---quick-start-guide>*
 
 In this tutorial session, you will be given a vehicle project as a starting point.
-Our aim is to introduce a simply chase behaviour to the computer controlled vehicles.
+Our aim is to introduce a simply chase behaviour to the computer controlled vehicles. YEA BUDDEEEEEE
 
 The programming part of this tutorial is C++ based.
 However, you do not need any prior coding experience in C++.
