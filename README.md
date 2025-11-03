@@ -13,6 +13,8 @@ The screenshot below shows a behaviour tree representing the actions that can be
 In this tutorial session, you will be given a vehicle project as a starting point.
 Our aim is to introduce a simply chase behaviour to the computer controlled vehicles. YEA BUDDEEEEEE
 
+no :o
+
 The programming part of this tutorial is C++ based.
 However, you do not need any prior coding experience in C++.
 You will be given the code snippet and the tasks set in this document will guide you through the code base of this project.
